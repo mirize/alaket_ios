@@ -1,4 +1,4 @@
-package ru.barnlab.alaket_ios
+package ru.barnlab.alaket
 
 import io.flutter.embedding.android.FlutterActivity
 
